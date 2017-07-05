@@ -1,0 +1,16 @@
+{
+	"name"        : "libvijka",
+	"url"         : "https://github.com/jonasmalacofilho/libvijka.hx",
+	"license"     : "BSD",
+	"tags"        : ["cross"],
+	"description" : "Algorithms ...and data structures for transport simulators",
+	"version"     : "1.0.0",
+	"classPath"   : "lib",
+	"releasenote" : "Initial work",
+	"contributors": ["jonasmalacofilho", "protocubo"],
+	"dependencies": {
+		"dheap"     : ""
+	}
+}
+
+

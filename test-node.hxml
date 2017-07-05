@@ -1,0 +1,9 @@
+-lib libvijka
+-lib hxnodejs
+-lib assertion
+-lib utest
+-cp test
+-main Main
+-debug
+-js bin/node/main.js
+
